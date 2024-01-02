@@ -1,5 +1,7 @@
 # DSA_MineSweeper
-To run the project please first check the path way to image file of LoadData class is correct.
-There are there packages: control, model, and view, containing 9 different classes.
-The main method is in GameFrame class.
-I coded on Eclipse, but it should be fine running on other environments after checking the previous one.
+First, you need to download all the files and images.
+There are three packages: control, model, and view, containing 9 different classes.
+The main method is in the GameFrame class.
+To run the project please first check the pathway to the image file of LoadData class is correct.
+I coded on Eclipse, but it should be fine running on IDE after checking the previous one.
+Run the code and enjoy the game!
